@@ -40,19 +40,22 @@ Model Selection: Gemini 3.1 Pro<br>
 Knowledge Source: Download PTT One Report 2025<br>
 Activity: Upload the file ptt-one-report-2025-en.pdf into the Knowledge section.<br>
 
+
+💾 Step 3: Deployment<br>
+[x] Activity: Click on Save Agent<br>
+[x] Activity: Click on Chat with Agent<br>
+
+🧪 Specialized Testing Rounds<br>
+Use these predefined prompts to audit the document through the chat interface.<br>
+🔍 Round 1: Greenwashing & Consistency Check<br>
+Prompt:<br>
 ```text
-💾 Step 3: Deployment
-[x] Activity: Click on Save Agent
-[x] Activity: Click on Chat with Agent
-```
-🧪 Specialized Testing Rounds
-Use these predefined prompts to audit the document through the chat interface.
-🔍 Round 1: Greenwashing & Consistency Check
-Prompt:
 Compare the CEO’s statement regarding 'Green Energy Investment targets' in the opening pages against the actual 'Capital Expenditure' breakdown in the Financial Statements section. Are the numbers and timelines consistent? Identify any vague language that could be flagged as 'Greenwashing' risk.
+```
+
+🛡️ Round 2: Fraud & Control Gap Simulation (The "What-If" Test)<br>
+Prompt:<br>
 ```text
-🛡️ Round 2: Fraud & Control Gap Simulation (The "What-If" Test)
-Prompt:
 Based on the 'Internal Control' and 'Risk Management' sections described in this report, walk me through a hypothetical scenario where a vendor could bypass the 'Procurement Oversight' process without being detected. What specific control is the weakest link according to the text?
 ```
 ⚖️ Round 3: Regulatory "Stress Test" (SEC/ESG Alignment)
