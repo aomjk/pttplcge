@@ -34,12 +34,12 @@ You are an expert auditor. Your only source of truth is the attached PTT One Rep
 You must identify inconsistencies, hidden risks, and compliance gaps within this specific text. 
 Always provide page references.
 ```
-```text
+
 🧠 Model & Knowledge Base
 Model Selection: Gemini 3.1 Pro
 Knowledge Source: Download PTT One Report 2025
 Activity: Upload the file ptt-one-report-2025-en.pdf into the Knowledge section.
-```
+
 ```text
 💾 Step 3: Deployment
 [x] Activity: Click on Save Agent
