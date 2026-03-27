@@ -58,9 +58,11 @@ Prompt:<br>
 ```text
 Based on the 'Internal Control' and 'Risk Management' sections described in this report, walk me through a hypothetical scenario where a vendor could bypass the 'Procurement Oversight' process without being detected. What specific control is the weakest link according to the text?
 ```
-⚖️ Round 3: Regulatory "Stress Test" (SEC/ESG Alignment)
-Prompt:
+⚖️ Round 3: Regulatory "Stress Test" (SEC/ESG Alignment)<br>
+Prompt:<br>
+```text
 Act as an SEC Thailand Regulator. Review the 'Corporate Governance' chapter. List 5 critical questions you would ask PTT's Board of Directors based on the gaps in this disclosure. Focus on 'Conflict of Interest' and 'Board Diversity'.
+```
 [!TIP]
 Workshop Note: If the agent provides an answer without a specific location, prompt it with: "Which page of the PTT One Report does this information come from?"
 [!CAUTION]
