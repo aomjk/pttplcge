@@ -1,7 +1,9 @@
 Markdown
 # 🚀 PTTPLC Gemini Enterprise Workshop: Agent Creation
 
-This documentation provides the complete, structured steps for building the **Annual Report Test Agent** within the Gemini Enterprise environment, formatted specifically for GitHub.
+<img width="512" height="512" alt="qrcode" src="https://github.com/user-attachments/assets/4da2b85d-25e9-4f96-a2cb-ac5cf2cd68b9" />
+
+Link to download the file https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf<br>
 
 ---
 
