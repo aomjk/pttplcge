@@ -63,7 +63,7 @@ Prompt:<br>
 ```text
 Act as an SEC Thailand Regulator. Review the 'Corporate Governance' chapter. List 5 critical questions you would ask PTT's Board of Directors based on the gaps in this disclosure. Focus on 'Conflict of Interest' and 'Board Diversity'.
 ```
-[!TIP]
-Workshop Note: If the agent provides an answer without a specific location, prompt it with: "Which page of the PTT One Report does this information come from?"
-[!CAUTION]
-Ensure the uploaded PDF is fully indexed before running the Specialized Testing Rounds to ensure maximum accuracy.
+[!TIP]<br>
+Workshop Note: If the agent provides an answer without a specific location, prompt it with: "Which page of the PTT One Report does this information come from?"<br>
+[!CAUTION]<br>
+Ensure the uploaded PDF is fully indexed before running the Specialized Testing Rounds to ensure maximum accuracy.<br>
