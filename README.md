@@ -35,10 +35,10 @@ You must identify inconsistencies, hidden risks, and compliance gaps within this
 Always provide page references.
 ```
 
-🧠 Model & Knowledge Base
-Model Selection: Gemini 3.1 Pro
-Knowledge Source: Download PTT One Report 2025
-Activity: Upload the file ptt-one-report-2025-en.pdf into the Knowledge section.
+🧠 Model & Knowledge Base<br>
+Model Selection: Gemini 3.1 Pro<br>
+Knowledge Source: Download PTT One Report 2025<br>
+Activity: Upload the file ptt-one-report-2025-en.pdf into the Knowledge section.<br>
 
 ```text
 💾 Step 3: Deployment
